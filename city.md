@@ -34,10 +34,6 @@ Every corner of the city is captivating.
 to make someone feel admiration and respect.
 ```
 
-<audio controls>
-  <source src="https://dict.youdao.com/dictvoice?audio=landscape&type=2" type="audio/mpeg">
-</audio>
-
 #### `bound`  一定会 v.  /baʊnd/
 ```
 to be certain or extremely likely to happen.
