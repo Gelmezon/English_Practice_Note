@@ -171,9 +171,15 @@ extremely attractive or impressive.
 ```
 
 #### `landscape` 风景 n.  /ˈlændskeɪp/
+
+<audio id="audio" controls="" preload="none">
+    <source id="mp3" src="https://dict.youdao.com/dictvoice?audio=landscape&type=2" type="audio/mpeg">
+</audio>
+
 ```
 everything you can see when you look across a large area of land, especially in the country.
 ```
+
 ## 3.上海
 
 ```
