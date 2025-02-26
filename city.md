@@ -172,10 +172,6 @@ extremely attractive or impressive.
 
 #### `landscape` 风景 n.  /ˈlændskeɪp/
 
-<audio id="audio" controls="" preload="none">
-    <source id="mp3" src="https://dict.youdao.com/dictvoice?audio=landscape&type=2" type="audio/mpeg">
-</audio>
-
 ```
 everything you can see when you look across a large area of land, especially in the country.
 ```
@@ -198,4 +194,53 @@ you can see the perfect combination of the past and the future in shanghai.
 i believe you will have a great time in shanghai.
 ```
 
+
+
+#### DeepSeek 优化后
+```
+
+Welcome to Shanghai—the most modern city in China.
+When we talk about China, Shanghai is impossible to overlook.
+It is also the most international and populous city in China.
+The moment you arrive in Shanghai, you`ll be amazed by the towering skyscrapers and bustling streets.
+The city is remarkably clean and well-organized, making it a pleasure to explore.
+Getting around is incredibly convenient thanks to the efficient subway system.
+The locals are warm and welcoming, always ready to lend a hand.
+Every day you spend in Shanghai will be filled with joy and unexpected discoveries.
+The Yangtze River, the largest river in China, flows through the city to the ocean.
+The Huangpu River divides the city into two parts—Pudong and Puxi.
+Pudong is a hub of modernity, while Puxi retains its traditional and historical charm.
+Shanghai offers a perfect blend of the past and the future, where history meets innovation.
+I`m sure you`ll have an unforgettable experience in Shanghai.
+```
+
+#### `overlook` 忽视 v.  /ˌoʊvərˈlʊk/
+```
+to fail to notice or consider something or someone.
+```
+
+#### `populous` 人口众多的 adj.  /ˈpɑːpjələs/
+```
+having a lot of people.
+```
+
+#### `towering` 高耸的 adj.  /ˈtaʊərɪŋ/
+```
+very tall.
+```
+
+#### `skyscraper` 摩天大楼 n.  /ˈskaɪˌskreɪpər/
+```
+a very tall modern building, usually in a city.
+```
+
+#### `bustling` 熙熙攘攘的 adj.  /ˈbʌslɪŋ/
+```
+full of busy activity.
+```
+
+#### `charm` 魅力 n.  /tʃɑːrm/
+```
+a quality that makes you like or feel attracted to someone or something.
+```
 
