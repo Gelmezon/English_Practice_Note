@@ -29,6 +29,50 @@ Picture yourself strolling down these picturesque streets.
 Every corner of the city is captivating.
 ```
 
+#### `impress`  使印象深刻 v.  /ɪmˈpres/
+```
+to make someone feel admiration and respect.
+```
+
+#### `bound`  一定会 v.  /baʊnd/
+```
+to be certain or extremely likely to happen.
+```
+
+#### `breathtaking` 令人惊叹的 adj.  /ˈbreθˌteɪkɪŋ/
+```
+when you see something breathtaking, you feel very surprised or excited.
+```
+#### `spotless`  一尘不染的 adj.  /ˈspɑːtləs/
+```
+extremely clean.
+```
+#### `lush`  茂盛的 adj.  /lʌʃ/
+```
+growing thickly and strongly in a way that is attractive.
+```
+
+#### `immaculate`  无暇的 adj.  /ɪˈmækjələt/
+```
+perfectly clean or tidy.
+```
+
+#### `strolling`  漫步 v.  /stroʊl/
+
+```
+to walk somewhere in a slow relaxed way.
+```
+
+#### `picturesque`  如画的 adj.  /ˌpɪk.tʃəˈresk/
+```
+attractive in appearance, especially in an old-fashioned way.
+```
+
+#### `captivating`  迷人的 adj.  /ˈkæptɪveɪtɪŋ/
+```
+holding your attention by being extremely interesting, exciting, pleasant, or attractive.
+```
+
 
 ## 2.重庆
 
@@ -55,6 +99,81 @@ Make sure to try the iconic Chongqing hotpot—a fiery, unforgettable culinary a
 And while you`re here, don`t miss the chance to take a scenic cruise along the Yangtze River, where you can soak in the city`s stunning landscape.
 ```
 
+#### `cruise`  游船 n.  /kruːz/
+```
+a journey on a large ship for pleasure, during which you visit several places.
+```
+
+#### `perched`  坐落 v.  /pɜːrtʃ/
+```
+to be in a high or very exposed position.
+```
+
+#### `brimming` 充满 v.  /ˈbrɪmɪŋ/
+```
+to be full of something.
+```
+
+#### `metropolis` 大都市 n.  /məˈtrɑːplɪs/
+```
+a very large city, often the most important city in a large area or country.
+```
+
+#### `seamlessly` 无缝地 adv.  /ˈsiːmləsli/
+```
+in a way that is smooth and continuous, with no sudden changes or awkward transitions.
+```
+
+#### `dazzling` 令人眼花缭乱的 adj.  /ˈdæzlɪŋ/
+```
+extremely attractive, exciting, or skilful.
+```
+
+#### `foody` 美食爱好者 n.  /ˈfuːdi/
+```
+a person who loves food and is very interested in different types of food.
+```
+
+#### `paradise` 天堂 n.  /ˈpærədaɪs/
+```
+a place or condition of great happiness where everything is exactly as you would like it to be.
+```
+
+#### `mouthwatering` 令人垂涎的 adj.  /ˈmaʊθˌwɔːtərɪŋ/
+```
+smelling, looking, or sounding delicious.
+```
+
+#### `iconic` 标志性的 adj.  /aɪˈkɑːnɪk/
+```
+very famous or popular, especially being considered to represent particular opinions or a particular time.
+```
+
+
+#### `fiery` 火辣的 adj.  /ˈfaɪəri/
+```
+having a strong, hot taste.
+```
+
+#### `culinary` 烹饪的 adj.  /ˈkʌləneri/
+```
+connected with cooking or kitchens.
+```
+
+#### `scenic` 风景如画的 adj.  /ˈsiːnɪk/
+```
+having or allowing you to see beautiful natural features.
+```
+
+#### `stunning` 令人惊叹的 adj.  /ˈstʌnɪŋ/
+```
+extremely attractive or impressive.
+```
+
+#### `landscape` 风景 n.  /ˈlændskeɪp/
+```
+everything you can see when you look across a large area of land, especially in the country.
+```
 
 ## 3.上海
 
