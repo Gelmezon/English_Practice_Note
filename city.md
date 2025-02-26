@@ -172,7 +172,7 @@ extremely attractive or impressive.
 
 #### `landscape` 风景 n.  /ˈlændskeɪp/
 <audio controls style="height: 30px; width: 30% ">
-  <source src="https://dict.youdao.com/dictvoice?audio=landscape&type=2" type="audio/mpeg">
+  <source src="test.mp3" type="audio/mpeg">
 </audio>
 
 ```
