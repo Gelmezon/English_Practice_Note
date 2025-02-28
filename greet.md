@@ -112,4 +112,105 @@ settling an issue; producing a definite result.
 ```
 
 
+## 3.朋友3
 
+```
+Dear Amy,
+It has been several years since we last met.
+I always remember the time we spent together.
+We jogged alongside the river together.
+We took the same classes in college.
+We shared our funny stories with each other.
+
+I have some good news that i can`t wait to tell you.
+I will marry my boyfriend next month.
+I hope you can hold my hand and lead me to my husband.
+Would you like to attend my wedding?
+
+I have bought a plane ticket for you.
+If you don`t mind, please come to my wedding.
+
+If you don`t have time, that`s no matter.
+Just pray for me and my happiness.
+
+By the way, I am pregnant now.
+It`s a girl, please allow me to name her Amy.
+because you are my best friend.
+
+whenever I think of  her name , I will remember you.
+The time we spent together is a precious memory in my life.
+
+I miss you.
+Your best friend, Sophia.
+
+```
+
+
+#### DeepSeek 优化后
+
+```
+Dear Amy,
+
+It’s been so long since we last saw each other, but I still cherish all the memories we made together. 
+Remember how we used to jog by the river? 
+Or how we took the same classes in college and shared all those hilarious stories? 
+Those moments mean so much to me.
+
+I’m thrilled to share some exciting news with you—I’m getting married next month! 
+I can’t imagine this day without you by my side. 
+Would you do me the honor of holding my hand and walking me down the aisle? 
+I’d love for you to be there.
+
+I’ve already booked a plane ticket for you, so all you need to do is say yes! 
+But if you can’t make it, I completely understand. 
+Just knowing you’re cheering me on from afar means the world to me.
+
+Oh, and there’s more—I’m pregnant! 
+It’s a girl, and I’d like to name her Amy, after you. 
+You’ve always been such an important part of my life, and I want her to carry a piece of that with her. 
+Every time I say her name, I’ll think of you and the incredible friendship we’ve shared.
+
+I miss you so much, Amy. You’ll always be my best friend.
+
+With love,
+Sophia
+
+优化说明：
+
+1. 更自然的开场：用“It’s been so long since we last saw each other”代替原文的“It has been several years since we last met”，更口语化且亲切。
+
+2. 情感更丰富：加入“I still cherish all the memories”和“Those moments mean so much to me”等表达，强化情感深度。
+
+3. 更地道的邀请：用“Would you do me the honor of holding my hand and walking me down the aisle?”代替原文的“I hope you can hold my hand and lead me to my husband”，更符合英语表达习惯。
+
+4. 更委婉的选项：用“But if you can’t make it, I completely understand”代替“If you don’t have time, that’s okay”，显得更体贴。
+
+5. 更自然的结尾：用“With love”代替“Your best friend”，更符合英语信件的结尾习惯，同时保留亲密感。
+
+这样修改后，信件更地道、自然，同时保留了原文的情感和内容。
+```
+
+#### `cherish` 珍惜 v.  /ˈtʃerɪʃ/
+```
+to keep something in your memory as a symbol of a happy time.
+```
+
+#### `hilarious` 滑稽的 adj.  /hɪˈleriəs/
+```
+extremely funny and causing a lot of laughter.
+```
+
+#### `thrilled` 高兴的 adj.  /θrɪld/
+```
+very excited and pleased.
+```
+
+#### `aisle` 通道 n.  /aɪl/
+```
+a long, narrow space between rows of seats in an aircraft, cinema, or church.
+```
+
+#### `afar` 远处 adv.  /əˈfɑːr/
+```
+at, to, or from a great distance.
+```
