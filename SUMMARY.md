@@ -4,3 +4,4 @@
 * [Welcome to the city! (练习)](city.md)
 * [write a letter to someone ! (练习)](greet.md)
 * [Other](other.md)
+* [Speech](speech.md)

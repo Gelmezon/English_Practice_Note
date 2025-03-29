@@ -60,3 +60,14 @@ So next holiday — will you choose the safe hotel tour? (摇头)
 Or (握拳) will you join me in the greatest game of real-life strategy?
 (鞠躬，保持笑容) Thank you!
 ```
+
+
+```
+qiuality adj. /ˈkwɒləti/  质量的
+adventure n. /ədˈventʃər/  冒险
+challenge n. /ˈtʃælɪndʒ/  挑战
+exciting adj. /ɪkˈsaɪtɪŋ/  令人兴奋的
+fascinating adj. /ˈfæsɪneɪtɪŋ/  迷人的
+
+```
+
