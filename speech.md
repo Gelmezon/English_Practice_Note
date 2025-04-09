@@ -17,46 +17,29 @@ Rednote is my third secret weapon, it is a very useful and convenient app, i can
 that`s all that i want to share with everyone here,thank you for listening.
 ```
 
+## 2.尴尬的事情
 
-### DeepSeek优化
+### 原文
 ```
-‌标题‌：How Budget Travel Rewrote My Definition of Adventure
-(走到舞台中央，微笑注视观众)
-
-Good evening, everyone! Let me start with a question:
-‌“How many of you think ‘budget travel’ means sleeping in dirty hostels and eating instant noodles?”‌
-(稍作停顿，观察观众反应)
-
-I used to think so too — until I discovered this secret:
-‌Low cost doesn’t equal low quality. In fact, it’s the ultimate creativity training!‌
-(手势模拟打开宝箱)
-
-‌Secret Weapon 1: Xianyu — The Thrill of Treasure Hunting‌
-(举起手机示意)
-“Last year in Shanghai, I booked a 5-star hotel room at 40% price through Xianyu. Was I nervous? Absolutely!
-(压低声音，身体前倾)
-But when the front desk said: ‘Your suite is ready’ — (突然提高音量) that adrenaline rush beat any rollercoaster!”
-(稍作停顿让观众消化)
-
-‌Secret Weapon 2: Night Trains — My Moving Hotel‌
-(双手模拟轨道移动)
-“Picture this: You’re gliding through moonlit landscapes in a clean cabin, your phone plays soft jazz...
-(语速放缓)
-When dawn breaks — (语速加快) boom! You’re 800km away, with ¥300 saved and zero jet lag!”
-(向观众挑眉) Who needs first-class flights?
-
-‌Secret Weapon 3: Red Note — The Local Whisperer‌
-(假装滑动手机屏幕)
-“This app once led me to a hidden dumpling shop. The owner grumbled: ‘How did you find us?’
-(模仿老人语气，观众笑)
-My secret? (举起手机) 20,000 foodies’ reviews in my pocket!”
-
-‌Closing Challenge‌
-(走到台前，语气真挚)
-Friends, budget travel isn’t about being cheap — it’s about being ‌courageous‌.
-Every risk becomes a story. Every saved yuan buys an extra experience.
-(张开双臂)
-So next holiday — will you choose the safe hotel tour? (摇头)
-Or (握拳) will you join me in the greatest game of real-life strategy?
-(鞠躬，保持笑容) Thank you!
+Today, i want to share embarrassing things that happened to me.
+Last sunday, i attended the english corner which is a kind of social event for english learners.
+When i introduced myself, i said  "hello, everyone, my name is David, i am thirteen years old" actually i am thirty years old. so everyone laughed and a man said "are you serious? you are a teenager?"
+I answered him "why do you think i am a teenager?"
+he said "you said you are thirteen years old ,so according to what you said ,  you are a teenager."
+everyone laughed again, meanwhile, i realized that i almost made a mistake,it was so embarrassing!
 ```
+
+### Deepseek 优化
+```
+Today, I`d like to share some embarrassing experiences that happened to me.
+Last Sunday, i went to an English corner which is a social gathering for english learners.
+
+when it was my turn to introduce myself, I said "Hello, everyone, my name is David, and I am thirteen years old." you know i actually meant to say was that i am thirty years old. as soon as i finished speaking,everyone burst out laughing.then a guy joked "are you for real ? you are a teenager?"
+
+i quickly corrected him "what makes you think i am a teenager?"
+He replied "well, you just said you are thirteen years old, so according to what you said, you are a teenager."
+
+everyone laughed again, and at that moment, I realized that I had almost made a huge mistake. it was so embarrassing!
+
+```
+
